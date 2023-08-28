@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hi EDS2023</title>
+    <link>https://najwalb.github.io/eds2023-hugo-example/posts/</link>
+    <description>Recent content in Posts on Hi EDS2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2023 17:23:26 +0300</lastBuildDate><atom:link href="https://najwalb.github.io/eds2023-hugo-example/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://najwalb.github.io/eds2023-hugo-example/posts/my-first-post/</link>
+      <pubDate>Mon, 28 Aug 2023 17:23:26 +0300</pubDate>
+      
+      <guid>https://najwalb.github.io/eds2023-hugo-example/posts/my-first-post/</guid>
+      <description>Hello EDS 2023!
+Introduction This is my tutorial about the versatility of org-mode. Hope you enjoy it!</description>
+    </item>
+    
+  </channel>
+</rss>

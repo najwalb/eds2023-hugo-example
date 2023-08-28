@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-08-28T17:23:26+03:00
-draft: true
+draft: false
 ---
 
 Hello EDS 2023!
